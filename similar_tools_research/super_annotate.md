@@ -5,12 +5,12 @@
 
 ## 2. Analytics
 They have a very good data visualisation page where all the data analystics can be seen (its close to what we wanna implement)
-![Crossed lines bounding boxes process](super_annotate\analytics.JPG){width=640 height=360}
+![Analytics](super_annotate/analytics.JPG)
 
 
 ## 3. Filter out feature 
 With this, a specific data instance can be filtered out with its class name or attributes and then can be reviewed or updated
-![Crossed lines bounding boxes process](super_annotate\filter_out.JPG){width=640 height=360}
+![Filter out](super_annotate/filter_out.JPG)
 
 
 ## 4. And they have the Azure integration that makes it easier to ingest data from
